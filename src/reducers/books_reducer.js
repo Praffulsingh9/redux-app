@@ -1,4 +1,7 @@
-export default books = () => {
+
+
+
+const books = () => {
     return [
         {title:"JavaScript The Good Parts"},
         {title:"Harry Potter"},
@@ -6,3 +9,5 @@ export default books = () => {
         {title:"Eloquent Ruby"}
     ]
 }
+
+export default books;
